@@ -1,4 +1,7 @@
 # Markdown editor example
+This app is build with:
+- [AdonisJs](https://adonisjs.com)
+- [React](https://reactjs.org)
 
 ## Setup
 ### Run server

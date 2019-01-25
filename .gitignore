@@ -9,7 +9,8 @@ api/node_modules
 api/tmp
 
 # Environment variables, never commit this file
-api/.env
+# only to test application
+# api/.env
 
 # The development sqlite file
 api/database/development.sqlite
