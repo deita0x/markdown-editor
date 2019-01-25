@@ -1,0 +1,20 @@
+.document-container {
+  padding-inline-start: 0px;
+}
+
+.document-item {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.document-item > span {
+  cursor: pointer;
+  color: white;
+  margin-left: 20px;
+}
+
+.document-selected {
+  background-color: #484d58;
+}
