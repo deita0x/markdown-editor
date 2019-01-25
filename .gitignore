@@ -14,6 +14,7 @@ api/tmp
 
 # The development sqlite file
 api/database/development.sqlite
+api/database/adonis.sqlite
 
 
 ## client ignore
